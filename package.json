@@ -7,6 +7,7 @@
     "test:specific" : "npx playwright test --grep sepLogin.spec.js",
     "test:tag" : "npx playwright test --grep @debug",
 
+    
     "report": "npx playwright show-report"
   },
   "keywords": [],
